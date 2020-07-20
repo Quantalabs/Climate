@@ -1,0 +1,8 @@
+title: Climate.py
+description: Graphs global temeperatures from 1880 to 2020.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
