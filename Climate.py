@@ -3,7 +3,7 @@ data = file.readlines()
 
 years = []
 for line in data:
-    years.append(-int(line.split(',')[0]))
+    years.append(int(line.split(',')[0]))
 
 temp = []
 for line in data:
