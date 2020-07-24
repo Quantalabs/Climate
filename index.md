@@ -5,4 +5,4 @@ But most people don't know how quickly it's rising. This graph is the average gl
 
 ### Credits
 
-All of the data came from _NOAA_ or _The National Oceanic and Atmospheric Administration_. You can view the data [here](https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/ann/12/1880-2020)
+Data from: NOAA National Centers for Environmental information, Climate at a Glance: Global Time Series, published July 2020, retrieved on July 19, 2020 from https://www.ncdc.noaa.gov/cag/
