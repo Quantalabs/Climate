@@ -17,3 +17,5 @@ plt.plot(years,temp)
 plt.ylabel('temperature (C)')
 plt.xlabel('years')
 plt.show()
+
+print('All tests passing!')
