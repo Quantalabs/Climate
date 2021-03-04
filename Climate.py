@@ -1,6 +1,6 @@
 from matplotlib import pyplot as plt
 
-file = open("Global Temperatures 1880-2020.csv", "r")
+file = open(".csv files//Global Temperatures 1880-2020.csv", "r")
 data = file.readlines()
 
 years = []
