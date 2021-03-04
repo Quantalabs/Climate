@@ -13,7 +13,7 @@ for line in data:
     num = float(''.join(numlist))
     temp.append(num)
 
-plt.plot(years,temp)
+plt.plot(years, temp)
 plt.ylabel('temperature (C)')
 plt.xlabel('years')
 plt.show()
