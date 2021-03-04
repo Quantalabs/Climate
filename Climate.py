@@ -1,3 +1,5 @@
+from matplotlib import pyplot as plt
+
 file = open("Global Temperatures 1880-2020.csv", "r")
 data = file.readlines()
 
@@ -10,9 +12,6 @@ for line in data:
     numlist = line.split(',')[1].split()
     num = float(''.join(numlist))
     temp.append(num)
-
-
-from matplotlib import pyplot as plt
 
 plt.plot(years,temp)
 plt.ylabel('temperature (C)')
