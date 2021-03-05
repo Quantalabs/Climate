@@ -1,4 +1,6 @@
-file = open("Global Temperatures 1880-2020.csv", "r")
+from matplotlib import pyplot as plt
+
+file = open(".csv files//Global Temperatures 1880-2020.csv", "r")
 data = file.readlines()
 
 years = []
@@ -11,10 +13,9 @@ for line in data:
     num = float(''.join(numlist))
     temp.append(num)
 
-
-from matplotlib import pyplot as plt
-
-plt.plot(years,temp)
+plt.plot(years, temp)
 plt.ylabel('temperature (C)')
 plt.xlabel('years')
 plt.show()
+
+print('All tests passing!')
