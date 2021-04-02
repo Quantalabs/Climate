@@ -17,9 +17,9 @@ file = urllib.request.urlopen(url)
 decoded_file = []
 
 for line in file[5:]:
-	decoded_line = line.decode("utf-8")
-	decoded_file.append(decoded_line)
-  
+    decoded_line = line.decode("utf-8")
+    decoded_file.append(decoded_line)
+
 tsv_save = open('data/nasa-climate-data.tsv', 'w+')
 tsv_save.writelines(decoded_file)
 
