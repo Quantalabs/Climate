@@ -13,7 +13,7 @@ Year No_Smoothing  Lowess(5)
 yyyy     (-)#.##   (-)#.##
 """
 
-file = urllib.request.urlopen(url)
+file = urllib.request.urlopen(URL)
 decoded_file = []
 
 for line in file[5:]:
