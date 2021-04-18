@@ -14,3 +14,6 @@ Data from: NOAA National Centers for Environmental information, Climate at a Gla
 <a href="https://github.com/Quantalabs/Climate/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Quantalabs/Climate" />
 </a>
+
+Cite Climate in your research:
+[![DOI](https://zenodo.org/badge/280964602.svg)](https://zenodo.org/badge/latestdoi/280964602)
