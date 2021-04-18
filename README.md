@@ -9,3 +9,8 @@ You can view how to program this [here](https://www.instructables.com/id/Graphin
 
 ### Credits
 Data from: NOAA National Centers for Environmental information, Climate at a Glance: Global Time Series, published July 2020, retrieved on July 19, 2020 from https://www.ncdc.noaa.gov/cag/
+
+**Credits also to all the contributors to the Climate repo.**
+<a href="https://github.com/Quantalabs/Climate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Quantalabs/Climate" />
+</a>
